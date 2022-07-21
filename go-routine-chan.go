@@ -1,3 +1,8 @@
+/*
+ What is Channel ?
+Channeel is nothing but communication medium for Go routines
+
+*/
 package main
 
 import (

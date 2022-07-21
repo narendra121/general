@@ -1,3 +1,10 @@
+/*
+Bubble Sort
+
+Algorithm Used :- Checking the adjucent value
+and proceed to shift the places
+if the adjecent value is less than present value
+*/
 package main
 
 import "fmt"

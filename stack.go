@@ -1,3 +1,10 @@
+/*
+Stack
+
+Algorithm:- LIFO (Last In First Out)
+Ops:- Push, Pop
+*/
+
 package main
 
 import "fmt"

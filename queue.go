@@ -1,3 +1,11 @@
+/*
+
+Queue
+
+Algorithm:- FIFO -First in First Out
+
+Ops:- Queuing , Dequeing
+*/
 package main
 
 import "fmt"

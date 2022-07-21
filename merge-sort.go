@@ -1,3 +1,9 @@
+/*
+Merge Sort
+
+Algorithm:- Divide and conquer
+
+*/
 package main
 
 import "fmt"

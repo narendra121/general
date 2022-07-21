@@ -1,3 +1,9 @@
+/*
+What Is Interface?
+
+It is type in Golang and used to abstract the funcs and methods.
+Type casting in interfaces called assertion.
+*/
 package main
 
 import "fmt"
